@@ -52,46 +52,45 @@ During EDA, the following analyses were performed:
 Below are some key visualizations generated during EDA to support findings and interpretations:
 
 ### YearBuilt vs SalePrice
-![YearBuilt vs SalePrice](images/yearbuilt_vs_saleprice.png)
+![YearBuilt vs SalePrice](images/YearBuilt_vs_SalePrice.png)
 
 ### YearRemodAdd vs SalePrice
-![YearRemodAdd vs SalePrice](images/yearremodadd_vs_saleprice.png)
+![YearRemodAdd vs SalePrice](images/YearRemodAdd_vs_SalePrice.png)
 
 ### LotArea vs SalePrice
-![LotArea vs SalePrice](images/lotarea_vs_saleprice.png
+![LotArea vs SalePrice](images/LotArea_vs_SalePrice.png
 )
 
 ### TotalBsmtSF vs SalePrice
-![TotalBsmtSF vs SalePrice](images/totalbsmtsf_vs_saleprice.png)
+![TotalBsmtSF vs SalePrice](images/TotalBsmtSF_vs_SalePrice.png)
 
 ### Distribution of Log_LotArea
 ![Distribution of Log_LotArea](images/log_lotarea_distribution.png
 )
 
 ### Distribution of Log_TotalBsmtSF
-![Distribution of Log_TotalBsmtSF](images/Disrbution_of_TotalBsmtSF.png,images/Distribution_of_Log_TotalBsmtSF.png
-)
+![Distribution of Log_TotalBsmtSF](images/Distribution_of_Log_TotalBsmtSF.png)
 
 ### Distribution of Log_SalePrice
 ![Distribution of Log_SalePrice](images/log_saleprice_distribution.png
 )
 
 ### SalePrice by MSZoning
-![SalePrice by MSZoning](images/mszoning_vs_saleprice.png)
+![SalePrice by MSZoning](images/SalePrice_vs_MSZoning.png)
 
 ### SalePrice by LotConfig
-![SalePrice by LotConfig](images/lotconfig_vs_saleprice.png)
+![SalePrice by LotConfig](images/SalePrice_by_LotConfig.png)
 
 ### SalePrice by BldgType
-![SalePrice by BldgType](images/bldgtype_vs_saleprice.png
+![SalePrice by BldgType](images/SalePrice by BldgType.png
 )
 
 ### SalePrice by Exterior1st
-![SalePrice by Exterior1st](images/exterior1st_vs_saleprice.png
+![SalePrice by Exterior1st](images/SalePrice_by_Exterior1st.png
 )
 
 ### SalePrice by MSSubClass
-![SalePrice by MSSubClass](images/mssubclass_vs_saleprice.png)
+![SalePrice by MSSubClass](images/SalePrice_by_MSSubClass.png)
 
 ## 🛠️ Feature Engineering
 
