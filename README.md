@@ -69,7 +69,7 @@ Below are some key visualizations generated during EDA to support findings and i
 )
 
 ### Distribution of Log_TotalBsmtSF
-![Distribution of Log_TotalBsmtSF](images/log_totalbsmtsf_distribution.png
+![Distribution of Log_TotalBsmtSF](images/Disrbution_of_TotalBsmtSF.png,images/Distribution_of_Log_TotalBsmtSF.png
 )
 
 ### Distribution of Log_SalePrice
