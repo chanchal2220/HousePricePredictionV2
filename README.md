@@ -65,14 +65,13 @@ Below are some key visualizations generated during EDA to support findings and i
 ![TotalBsmtSF vs SalePrice](images/TotalBsmtSF_vs_SalePrice.png)
 
 ### Distribution of Log_LotArea
-![Distribution of Log_LotArea](images/log_lotarea_distribution.png
-)
+![Distribution of Log_LotArea](images/Distribution_of_Log_LotArea.png)
 
 ### Distribution of Log_TotalBsmtSF
 ![Distribution of Log_TotalBsmtSF](images/Distribution_of_Log_TotalBsmtSF.png)
 
 ### Distribution of Log_SalePrice
-![Distribution of Log_SalePrice](images/log_saleprice_distribution.png
+![Distribution of Log_SalePrice](images/Distribution_of_Log_SalePrice.png
 )
 
 ### SalePrice by MSZoning
